@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0DA6A8EF-E3CA-4A7E-A955-43B3156FC882}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RunAsync PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RunConcurrentAsync.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="2" />
+      <File FileName="RunConcurrentAsync.cs" Line="42" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RunAsync" expanded="True">
+            <Node name="Dsi.Utility" expanded="True" />
+            <Node name="RunAsync" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
